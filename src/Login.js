@@ -92,10 +92,10 @@ const Login = () => {
                         <a href='https://mente-doshi.vercel.app/'>Sign In</a>
                     </form>
                     <p>
-                        Need an Account?<br />
+                        {/* Need an Account?<br /> */}
                         <span className="line">
                             {/*put router link here*/}
-                            <a href="#">Sign Up</a>
+                            {/* <a href="#">Sign Up</a> */}
                         </span>
                     </p>
                 </section>
